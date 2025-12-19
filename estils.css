@@ -1,0 +1,49 @@
+/*Clase para actualizar el líder*/
+.lider{
+    color: rgb(24, 212, 24);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d5e21a;
+    padding: 35px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+.equipo {
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    margin: 7px;
+    width: 300px;
+    border: 1px solid #1ea5bd;
+}
+
+.puntos {
+    font-size: 40px;
+    margin: 10px ;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#reset {
+    margin-top: 25px;
+}
+
+#lista-historial {
+    list-style: none;
+    margin-top: 20px;
+    padding: 0;
+}
+
